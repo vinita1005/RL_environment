@@ -1,5 +1,5 @@
 # RL_environment
-
+![caption](https://github.com/vinita1005/RL_environment/blob/main/RL_env_render.gif)
 # Abstract
 
 In this project, a reinforcement learning algorithm SARSA is implemented to enable an
